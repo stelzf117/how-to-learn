@@ -2,7 +2,8 @@
   height: 568px;
   width: 568px;
   background-color: #2f80ed;
-  animation: rotation 30s linear infinite;
   z-index: -1;
-  overflow: hidden;
+  position: absolute;
+  right: 0;
+  top: 64px;
 }

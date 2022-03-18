@@ -4,4 +4,10 @@
   font-weight: 400;
   color: #fff;
   margin: 18px 0;
+  text-decoration: none;
+  transition: opacity .7s;
+}
+
+.footer__author:hover {
+  opacity: .6;
 }

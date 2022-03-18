@@ -4,4 +4,12 @@
   background-position: center;
   height: 32px;
   width: 183px;
+  text-decoration: none;
+  transition: opacity .5s;
+  margin: 0;
+  line-height: 0;
+}
+
+.logo:hover {
+  opacity: .7;
 }
