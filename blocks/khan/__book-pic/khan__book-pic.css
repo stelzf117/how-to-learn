@@ -2,5 +2,8 @@
   margin: 0;
   line-height: 0;
   font-size: 0;
-  height: 620px;
+  width: 620px;
+  height: 608px;
+  object-fit: cover;
+  object-position: 50% 0;
 }
