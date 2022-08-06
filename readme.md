@@ -4,4 +4,4 @@
 
 **3. Указание, что за технологии используются:** HTML, CSS, keyframes animation, flexbox, БЭМ-Nested.
 
-Github pages https://stelzf117.github.io/how-to-learn/
+<a href="https://stelzf117.github.io/how-to-learn/">Github pages</a>
