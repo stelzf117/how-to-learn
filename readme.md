@@ -4,8 +4,6 @@
 
 **3. Указание, что за технологии используются:** HTML, CSS, keyframes animation, flexbox, БЭМ-Nested.
 
-**Планы по доработке:** сделать верстку адаптивной. 12/08/22
-
 ## Ссылки
 <a href="https://stelzf117.github.io/how-to-learn/">Github pages</a> <br>
 <a href="https://www.figma.com/file/MxuX3D1fad0l0IT3tIYdYi/long-brief-(Copy)?node-id=0%3A1">Figma</a>
